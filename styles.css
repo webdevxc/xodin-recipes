@@ -1,0 +1,29 @@
+h1 {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #3f1b12;
+    text-shadow: 0 0 15px #e7c2a3;
+}
+
+body {
+    background-color: #ffffff;
+    text-align:center;
+    color: #332626;
+}
+
+.list {
+    color: #5e2d2d;
+    text-align:justify;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
+/* styling the index */
+
+.pgin.list {
+    list-style: square outside;
+    text-align:center;
+}
